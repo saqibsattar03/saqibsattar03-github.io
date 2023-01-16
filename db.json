@@ -32,6 +32,50 @@
         "time": "12:00",
         "petsAllowed": true,
         "organizer": "Kat Laydee"
+      },
+      {
+        "id": 19,
+        "category": "Animal welfare",
+        "title": "High Way Event",
+        "description": "Find you new Feline friend at this event",
+        "location": "Meaw Town",
+        "date": "March 28, 2020",
+        "time": "12:00",
+        "petsAllowed": true,
+        "organizer": "Kat Laydee"
+      },
+      {
+        "id": 9,
+        "category": "Animal welfare",
+        "title": "Example Event",
+        "description": "Find you new Feline friend at this event",
+        "location": "Meaw Town",
+        "date": "March 28, 2020",
+        "time": "12:00",
+        "petsAllowed": true,
+        "organizer": "Kat Laydee"
+      },
+      {
+        "id": 2009,
+        "category": "Animal welfare",
+        "title": "ABC Event",
+        "description": "Find you new Feline friend at this event",
+        "location": "Meaw Town",
+        "date": "March 28, 2020",
+        "time": "12:00",
+        "petsAllowed": true,
+        "organizer": "Kat Laydee"
+      },
+      {
+        "id": 508,
+        "category": "Animal welfare",
+        "title": "XYZ Event",
+        "description": "Find you new Feline friend at this event",
+        "location": "Meaw Town",
+        "date": "March 28, 2020",
+        "time": "12:00",
+        "petsAllowed": true,
+        "organizer": "Kat Laydee"
       }
     ]
 }
