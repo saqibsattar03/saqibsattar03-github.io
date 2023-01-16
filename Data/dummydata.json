@@ -1,0 +1,37 @@
+{
+    "events":[
+        {
+        "id": 592810,
+        "category": "Animal welfare",
+        "title": "Cat Adoption Day",
+        "description": "Find you new Feline friend at this event",
+        "location": "Meaw Town",
+        "date": "January 28, 2020",
+        "time": "10:00",
+        "petsAllowed": true,
+        "organizer": "Kat Laydee"
+      },
+      {
+        "id": 592810,
+        "category": "Animal welfare",
+        "title": "Conference Day",
+        "description": "Find you new Feline friend at this event",
+        "location": "Meaw Town",
+        "date": "November 28, 2020",
+        "time": "08:00",
+        "petsAllowed": true,
+        "organizer": "Kat Laydee"
+      },
+      {
+        "id": 592810,
+        "category": "Animal welfare",
+        "title": "Beach Day",
+        "description": "Find you new Feline friend at this event",
+        "location": "Meaw Town",
+        "date": "March 28, 2020",
+        "time": "12:00",
+        "petsAllowed": true,
+        "organizer": "Kat Laydee"
+      }
+    ]
+}
